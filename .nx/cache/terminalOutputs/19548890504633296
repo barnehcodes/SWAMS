@@ -1,0 +1,739 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/9e70d168-08f3-4f3d-b08e-3961dc3a805c[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/9e70d168-08f3-4f3d-b08e-3961dc3a805c[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 24724  - [39m[31m12/19/2024, 8:35:26 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/2b0a8ea4-66c5-4084-a3ac-9193810ec9bb[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/2b0a8ea4-66c5-4084-a3ac-9193810ec9bb[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/7185225e-7dee-4e6f-83a5-06ff1241e119[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/7185225e-7dee-4e6f-83a5-06ff1241e119[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 19816  - [39m[31m12/19/2024, 8:42:17 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/3b9da71e-e531-4097-9b28-f8edaba5d056[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/3b9da71e-e531-4097-9b28-f8edaba5d056[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 22012  - [39m[31m12/19/2024, 8:42:26 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/bf7112f0-25b5-4c02-9eb3-01cfea1b6351[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/bf7112f0-25b5-4c02-9eb3-01cfea1b6351[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/424c638b-d973-4c40-ae69-2d7dad9bdcaf[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/424c638b-d973-4c40-ae69-2d7dad9bdcaf[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 20232  - [39m[31m12/19/2024, 8:43:18 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/8eb544a2-39eb-4d7b-a419-bae6e630681c[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/8eb544a2-39eb-4d7b-a419-bae6e630681c[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/59002832-7f6b-4277-af16-5bea5f6d3f51[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/59002832-7f6b-4277-af16-5bea5f6d3f51[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 22220  - [39m[31m12/19/2024, 8:43:35 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/e3c8ed9b-a36e-4929-99df-c49d01790697[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/e3c8ed9b-a36e-4929-99df-c49d01790697[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/c63baa5e-79ab-4270-afbd-2e07b49ff9d5[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/c63baa5e-79ab-4270-afbd-2e07b49ff9d5[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 18672  - [39m[31m12/19/2024, 8:44:22 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/68cdba45-be22-442b-8259-e0a60f100434[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/68cdba45-be22-442b-8259-e0a60f100434[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/67e0e829-e69f-417d-ad65-fd7f19016453[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/67e0e829-e69f-417d-ad65-fd7f19016453[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 12652  - [39m[31m12/19/2024, 8:44:54 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/10bbd321-9b6e-41f1-bc9b-bc13104b443a[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/10bbd321-9b6e-41f1-bc9b-bc13104b443a[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 21088  - [39m[31m12/19/2024, 8:45:24 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/7e81e4e1-d8f8-47a6-9c2d-6ed5ff9703f8[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/7e81e4e1-d8f8-47a6-9c2d-6ed5ff9703f8[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 15984  - [39m[31m12/19/2024, 8:45:30 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/72734e43-cc6c-48c1-b327-4d128403a2b7[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/72734e43-cc6c-48c1-b327-4d128403a2b7[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mDebugger listening on ws://localhost:9229/dc54c6e7-e5f2-4439-95e3-99c4ab173ede[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/dc54c6e7-e5f2-4439-95e3-99c4ab173ede[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 2316  - [39m[31m12/19/2024, 8:45:43 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:9229/6926f12c-9c2c-4e4a-be9f-132f359b192d[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/6926f12c-9c2c-4e4a-be9f-132f359b192d[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 2260  - [39m[31m12/19/2024, 8:46:07 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m8 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mDebugger listening on ws://localhost:9229/c2481732-a7c0-4a96-8f45-8ebf67445418[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/c2481732-a7c0-4a96-8f45-8ebf67445418[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mC:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:39[39m[22m
+[1m[31mconst employee_service_1 = __webpack_require__(Object(function webpackMissingModule() { var e = new Error("Cannot find module './employee/employee.service'"); e.code = 'MODULE_NOT_FOUND'; throw e; }()));[39m[22m
+[1m[31m                                                                                                ^[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: Cannot find module './employee/employee.service'[39m[22m
+[1m[31m    at webpackMissingModule (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:39:97)[39m[22m
+[1m[31m    at Object.36 (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:39:199)[39m[22m
+[1m[31m    at __webpack_require__ (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:155:41)[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:171:35[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:186:3[39m[22m
+[1m[31m    at Object.<anonymous> (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:191:12)[39m[22m
+[1m[31m    at Module._compile (node:internal/modules/cjs/loader:1469:14)[39m[22m
+[1m[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)[39m[22m
+[1m[31m    at Module.load (node:internal/modules/cjs/loader:1288:32)[39m[22m
+[1m[31m    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m8 errors[39m[22m (edaffdd469c6eff5)
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m8 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m8 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m8 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.resolver.ts:[32m[1m9:44[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+  [0m [90m  7 |[39m   [33mRegisterResponse[39m[33m,[39m
+   [90m  8 |[39m } [36mfrom[39m [32m"./types/restaurant.type"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mActivationDto[39m[33m,[39m [33mRegisterDto[39m } [36mfrom[39m [32m"./dto/restaurant.dto"[39m[33m;[39m
+   [90m    |[39m                                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m [36mimport[39m { [33mResponse[39m[33m,[39m [33mRequest[39m } [36mfrom[39m [32m"express"[39m[33m;[39m
+   [90m 11 |[39m [36mimport[39m { [33mUseGuards[39m } [36mfrom[39m [32m"@nestjs/common"[39m[33m;[39m
+   [90m 12 |[39m [36mimport[39m { [33mAuthGuard[39m } [36mfrom[39m [32m"./guards/auth.guard"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.service.ts:[32m[1m6:54[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mConfigService[39m } [36mfrom[39m [32m"@nestjs/config"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mEmailService[39m } [36mfrom[39m [32m"./email/email.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mActivationDto[39m[33m,[39m [33mLoginDto[39m[33m,[39m [33mRegisterDto[39m } [36mfrom[39m [32m"./dto/restaurant.dto"[39m[33m;[39m
+   [90m   |[39m                                                      [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m [33m*[39m [36mas[39m bcrypt [36mfrom[39m [32m"bcrypt"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mResponse[39m } [36mfrom[39m [32m"express"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mTokenSender[39m } [36mfrom[39m [32m"./utils/send.token"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m10 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.resolver.ts:[32m[1m9:44[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+  [0m [90m  7 |[39m   [33mRegisterResponse[39m[33m,[39m
+   [90m  8 |[39m } [36mfrom[39m [32m"./types/restaurant.type"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mActivationDto[39m[33m,[39m [33mRegisterDto[39m } [36mfrom[39m [32m"./dto/restaurant.dto"[39m[33m;[39m
+   [90m    |[39m                                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m [36mimport[39m { [33mResponse[39m[33m,[39m [33mRequest[39m } [36mfrom[39m [32m"express"[39m[33m;[39m
+   [90m 11 |[39m [36mimport[39m { [33mUseGuards[39m } [36mfrom[39m [32m"@nestjs/common"[39m[33m;[39m
+   [90m 12 |[39m [36mimport[39m { [33mAuthGuard[39m } [36mfrom[39m [32m"./guards/auth.guard"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.service.ts:[32m[1m6:54[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mConfigService[39m } [36mfrom[39m [32m"@nestjs/config"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mEmailService[39m } [36mfrom[39m [32m"./email/email.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mActivationDto[39m[33m,[39m [33mLoginDto[39m[33m,[39m [33mRegisterDto[39m } [36mfrom[39m [32m"./dto/restaurant.dto"[39m[33m;[39m
+   [90m   |[39m                                                      [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m [33m*[39m [36mas[39m bcrypt [36mfrom[39m [32m"bcrypt"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mResponse[39m } [36mfrom[39m [32m"express"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mTokenSender[39m } [36mfrom[39m [32m"./utils/send.token"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/types/restaurant.type.ts:[32m[1m2:28[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module '../entities/restaurant.entities' or its corresponding type declarations.
+  [0m [90m 1 |[39m [36mimport[39m { [33mObjectType[39m[33m,[39m [33mField[39m } [36mfrom[39m [32m"@nestjs/graphql"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mRestaurant[39m } [36mfrom[39m [32m"../entities/restaurant.entities"[39m[33m;[39m
+   [90m   |[39m                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 3 |[39m
+   [90m 4 |[39m [33m@[39m[33mObjectType[39m()
+   [90m 5 |[39m [36mexport[39m [36mclass[39m [33mErrorType[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m11 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.resolver.ts:[32m[1m9:44[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.service.ts:[32m[1m6:54[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+
+[1m[31mERROR[39m[22m in [1m./src/types/restaurant.type.ts:[32m[1m2:28[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module '../entities/restaurant.entities' or its corresponding type declarations.
+  [0m [90m 1 |[39m [36mimport[39m { [33mObjectType[39m[33m,[39m [33mField[39m } [36mfrom[39m [32m"@nestjs/graphql"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mRestaurant[39m } [36mfrom[39m [32m"../entities/restaurant.entities"[39m[33m;[39m
+   [90m   |[39m                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 3 |[39m
+   [90m 4 |[39m [33m@[39m[33mObjectType[39m()
+   [90m 5 |[39m [36mexport[39m [36mclass[39m [33mErrorType[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m11 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 3.21 KiB [1m[33m[entry][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m10:27-65[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m11:28-67[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './employee/employee.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m12:36-92[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.service' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts[39m[22m [1m[32m13:37-94[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './water-consumption/water-consumption.resolver' in 'C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\apps\api-restuarants\src'[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/foods/types/foods.types.ts:[32m[1m2:27[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module '../../types/restaurant.type' or its corresponding type declarations.
+  [0m [90m 1 |[39m [36mimport[39m { [33mField[39m[33m,[39m [33mObjectType[39m } [36mfrom[39m [32m"@nestjs/graphql"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mErrorType[39m } [36mfrom[39m [32m"../../types/restaurant.type"[39m[33m;[39m
+   [90m   |[39m                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 3 |[39m [36mimport[39m { [33mFoods[39m } [36mfrom[39m [32m"prisma/prisma-client"[39m[33m;[39m
+   [90m 4 |[39m [36mimport[39m { [33mFood[39m } [36mfrom[39m [32m"../entities/foods.entities"[39m[33m;[39m
+   [90m 5 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.resolver.ts:[32m[1m8:8[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './types/restaurant.type' or its corresponding type declarations.
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.resolver.ts:[32m[1m9:44[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+
+[1m[31mERROR[39m[22m in [1m./src/restaurant.service.ts:[32m[1m6:54[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './dto/restaurant.dto' or its corresponding type declarations.
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m6:33[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.service' or its corresponding type declarations.
+  [0m [90m 4 |[39m [36mimport[39m { [33mApolloFederationDriver[39m[33m,[39m [33mApolloFederationDriverConfig[39m } [36mfrom[39m [32m"@nestjs/apollo"[39m[33m;[39m
+   [90m 5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m   |[39m                                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m 8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m 9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m7:34[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './employee/employee.resolver' or its corresponding type declarations.
+  [0m [90m  5 |[39m [36mimport[39m { [33mPrismaService[39m } [36mfrom[39m [32m"../prisma/prisma.service"[39m[33m;[39m
+   [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m    |[39m                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m8:41[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.service' or its corresponding type declarations.
+  [0m [90m  6 |[39m [36mimport[39m { [33mEmployeeService[39m } [36mfrom[39m [32m"./employee/employee.service"[39m[33m;[39m
+   [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+   [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({[0m
+
+[1m[31mERROR[39m[22m in [1m./src/water-management.module.ts:[32m[1m9:42[22m[39m[1m[39m[22m
+[90mTS2307: [39mCannot find module './water-consumption/water-consumption.resolver' or its corresponding type declarations.
+  [0m [90m  7 |[39m [36mimport[39m { [33mEmployeeResolver[39m } [36mfrom[39m [32m"./employee/employee.resolver"[39m[33m;[39m
+   [90m  8 |[39m [36mimport[39m { [33mWaterConsumptionService[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.service"[39m[33m;[39m
+  [31m[1m>[22m[39m[90m  9 |[39m [36mimport[39m { [33mWaterConsumptionResolver[39m } [36mfrom[39m [32m"./water-consumption/water-consumption.resolver"[39m[33m;[39m
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m
+   [90m 11 |[39m [33m@[39m[33mModule[39m({
+   [90m 12 |[39m   imports[33m:[39m [[0m
+
+webpack compiled with [1m[31m12 errors[39m[22m (edaffdd469c6eff5)
+[31m[1m[31mBuild failed, waiting for changes to restart...[39m[22m[39m

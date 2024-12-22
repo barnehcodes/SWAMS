@@ -1,0 +1,63 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 2.14 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (161aacff4012c0d5)
+[31m[1m[31mDebugger listening on ws://localhost:4000/cc2aa7d1-2ea7-4911-b171-412738c5df50[39m[22m
+[1m[31mDebugger listening on ws://localhost:4000/cc2aa7d1-2ea7-4911-b171-412738c5df50[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: Couldn't load service definitions for "users" at http://localhost:4001/graphql: 400: Bad Request[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:77:15[39m[22m
+[1m[31m    at processTicksAndRejections (node:internal/process/task_queues:95:5)[39m[22m
+[1m[31m    at async Promise.all (index 0)[39m[22m
+[1m[31m    at loadServicesFromRemoteEndpoint (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:81:30)[39m[22m
+[1m[31m    at IntrospectAndCompose.updateSupergraphSdl (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:92:20)[39m[22m
+[1m[31m    at IntrospectAndCompose.initialize (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:62:30)[39m[22m
+[1m[31m    at ApolloGateway.initializeSupergraphManager (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:404:22)[39m[22m
+[1m[31m    at ApolloGateway.load (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:314:7)[39m[22m
+[1m[31m    at SchemaManager.start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\utils\schemaManager.ts:108:22)[39m[22m
+[1m[31m    at ApolloServer._start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\ApolloServer.ts:407:24)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 2.14 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (8f94d868782ba583)
+[31m[1m[31mDebugger listening on ws://localhost:4000/d7cd0b0f-5568-4616-92a7-bf899b0318be[39m[22m
+[1m[31mDebugger listening on ws://localhost:4000/d7cd0b0f-5568-4616-92a7-bf899b0318be[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: Couldn't load service definitions for "users" at http://localhost:4001/graphql: 400: Bad Request[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:77:15[39m[22m
+[1m[31m    at processTicksAndRejections (node:internal/process/task_queues:95:5)[39m[22m
+[1m[31m    at async Promise.all (index 0)[39m[22m
+[1m[31m    at loadServicesFromRemoteEndpoint (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:81:30)[39m[22m
+[1m[31m    at IntrospectAndCompose.updateSupergraphSdl (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:92:20)[39m[22m
+[1m[31m    at IntrospectAndCompose.initialize (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:62:30)[39m[22m
+[1m[31m    at ApolloGateway.initializeSupergraphManager (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:404:22)[39m[22m
+[1m[31m    at ApolloGateway.load (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:314:7)[39m[22m
+[1m[31m    at SchemaManager.start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\utils\schemaManager.ts:108:22)[39m[22m
+[1m[31m    at ApolloServer._start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\ApolloServer.ts:407:24)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 2.06 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (7591b80ea34380ce)
+[31m[1m[31mDebugger listening on ws://localhost:4000/718d0406-cede-4147-ac44-f9a1b4282be6[39m[22m
+[1m[31mDebugger listening on ws://localhost:4000/718d0406-cede-4147-ac44-f9a1b4282be6[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: Couldn't load service definitions for "users" at http://localhost:4001/graphql: 400: Bad Request[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:77:15[39m[22m
+[1m[31m    at processTicksAndRejections (node:internal/process/task_queues:95:5)[39m[22m
+[1m[31m    at async Promise.all (index 0)[39m[22m
+[1m[31m    at loadServicesFromRemoteEndpoint (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\loadServicesFromRemoteEndpoint.ts:81:30)[39m[22m
+[1m[31m    at IntrospectAndCompose.updateSupergraphSdl (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:92:20)[39m[22m
+[1m[31m    at IntrospectAndCompose.initialize (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\supergraphManagers\IntrospectAndCompose\index.ts:62:30)[39m[22m
+[1m[31m    at ApolloGateway.initializeSupergraphManager (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:404:22)[39m[22m
+[1m[31m    at ApolloGateway.load (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\gateway\src\index.ts:314:7)[39m[22m
+[1m[31m    at SchemaManager.start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\utils\schemaManager.ts:108:22)[39m[22m
+[1m[31m    at ApolloServer._start (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@apollo\server\src\ApolloServer.ts:407:24)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+

@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve restuarant-dashboard",
+    "startTime": "2024-12-19T20:35:13.533Z",
+    "endTime": "2024-12-19T20:35:16.675Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "restuarant-dashboard:serve:development",
+      "target": "serve",
+      "projectName": "restuarant-dashboard",
+      "hash": "17475632684696389256",
+      "startTime": "2024-12-19T20:35:13.547Z",
+      "endTime": "2024-12-19T20:35:16.669Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

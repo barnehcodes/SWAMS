@@ -1,0 +1,10 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 33.9 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (2ebced0aff83bb93)
+[31m[1m[31mDebugger listening on ws://localhost:9229/8b580ac1-888c-4b19-b0ee-668c8a37643c[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/8b580ac1-888c-4b19-b0ee-668c8a37643c[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 6320  - [39m[31m12/13/2024, 3:04:53 AM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mError occurred while verifying the transporter}: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to[39m[22m
+[1m[31m535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-436257178e3sm33381615e9.41 - gsmtp[39m[31m[39m[22m
+[1m[31m[39m[22m[39m

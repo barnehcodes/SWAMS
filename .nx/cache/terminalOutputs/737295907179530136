@@ -1,0 +1,29 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (98e17c4050684572)
+[31m[1m[31mDebugger listening on ws://localhost:4002/267378e5-231d-4eea-926f-b5d73e9a891b[39m[22m
+[1m[31mDebugger listening on ws://localhost:4002/267378e5-231d-4eea-926f-b5d73e9a891b[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 13632  - [39m[31m12/14/2024, 9:31:09 PM [31m  ERROR[39m[31m [38;5;3m[NestApplication] [39m[31m[31mError: listen EADDRINUSE: address already in use :::4001[39m[31m[38;5;3m +2ms[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: listen EADDRINUSE: address already in use :::4001[39m[22m
+[1m[31m    at Server.setupListenHandle [as _listen2] (node:net:1904:16)[39m[22m
+[1m[31m    at listenInCluster (node:net:1961:12)[39m[22m
+[1m[31m    at Server.listen (node:net:2063:7)[39m[22m
+[1m[31m    at ExpressAdapter.listen (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\platform-express\adapters\express-adapter.js:95:32)[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\core\nest-application.js:183:30[39m[22m
+[1m[31m    at new Promise (<anonymous>)[39m[22m
+[1m[31m    at NestApplication.listen (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\core\nest-application.js:173:16)[39m[22m
+[1m[31m    at bootstrap (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-restuarants\main.js:1358:5)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 46.3 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (231ffd8be1a0d8df)
+[31m[1m[31mDebugger listening on ws://localhost:4002/0abc85b3-8385-4097-8030-02ee1d8d80ee[39m[22m
+[1m[31mDebugger listening on ws://localhost:4002/0abc85b3-8385-4097-8030-02ee1d8d80ee[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 14084  - [39m[31m12/14/2024, 9:33:32 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m

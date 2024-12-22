@@ -1,0 +1,23 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 33.9 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (2ebced0aff83bb93)
+[31m[1m[31mStarting inspector on localhost:9229 failed: address already in use[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 16212  - [39m[31m12/14/2024, 9:52:24 PM [31m  ERROR[39m[31m [38;5;3m[NestApplication] [39m[31m[31mError: listen EADDRINUSE: address already in use :::4001[39m[31m[38;5;3m +3ms[39m[31m[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31mError: listen EADDRINUSE: address already in use :::4001[39m[22m
+[1m[31m    at Server.setupListenHandle [as _listen2] (node:net:1904:16)[39m[22m
+[1m[31m    at listenInCluster (node:net:1961:12)[39m[22m
+[1m[31m    at Server.listen (node:net:2063:7)[39m[22m
+[1m[31m    at ExpressAdapter.listen (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\platform-express\adapters\express-adapter.js:95:32)[39m[22m
+[1m[31m    at C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\core\nest-application.js:183:30[39m[22m
+[1m[31m    at new Promise (<anonymous>)[39m[22m
+[1m[31m    at NestApplication.listen (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\node_modules\@nestjs\core\nest-application.js:173:16)[39m[22m
+[1m[31m    at bootstrap (C:\Users\hp\OneDrive\Bureau\Food-Delivery-WebApp\dist\apps\api-users\main.js:1013:5)[39m[22m
+[1m[31m[39m[22m[39m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mProcess exited with code 1, waiting for changes to restart...[22m
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 33.9 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (bba66a391b3906f6)
+[31m[1m[31mStarting inspector on localhost:9229 failed: address already in use[39m[22m
+[1m[31m[39m[22m[39m

@@ -1,0 +1,6 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 33.9 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (6794be03e29cd53a)
+[31m[1m[31mStarting inspector on localhost:9229 failed: address already in use[39m[22m
+[1m[31m[39m[22m[39m
+[31m[1m[31m[31m[Nest] 21608  - [39m[31m12/19/2024, 6:20:07 PM [31m  ERROR[39m[31m [38;5;3m[MailerService] [39m[31m[31mTransporter is ready[39m[31m[39m[22m
+[1m[31m[39m[22m[39m

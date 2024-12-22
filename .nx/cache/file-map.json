@@ -1,0 +1,1922 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@apollo/client": "^3.8.10",
+    "@apollo/gateway": "^2.6.2",
+    "@apollo/server": "^4.10.0",
+    "@apollo/subgraph": "^2.6.2",
+    "@emotion/styled": "^11.14.0",
+    "@hookform/resolvers": "^3.3.2",
+    "@nestjs-modules/mailer": "^1.10.3",
+    "@nestjs/apollo": "^12.0.11",
+    "@nestjs/cli": "^10.3.0",
+    "@nestjs/common": "^10.3.0",
+    "@nestjs/config": "^3.1.1",
+    "@nestjs/core": "^10.3.0",
+    "@nestjs/graphql": "^12.0.11",
+    "@nestjs/jwt": "^10.2.0",
+    "@nestjs/platform-express": "^10.3.0",
+    "@nextui-org/react": "^2.2.9",
+    "@types/bcrypt": "^5.0.2",
+    "@types/ejs": "^3.1.5",
+    "@types/express": "^4.17.21",
+    "@types/supertest": "^2.0.16",
+    "axios": "^1.0.0",
+    "bcrypt": "^5.1.1",
+    "class-validator": "^0.14.0",
+    "cloudinary": "^1.41.3",
+    "country-state-city": "^3.2.1",
+    "ejs": "^3.1.9",
+    "eslint-plugin-prettier": "^5.1.2",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "js-cookie": "^3.0.5",
+    "next": "^14.0.2",
+    "nodemailer": "^6.9.8",
+    "prisma": "^5.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.22.0",
+    "recharts": "^2.10.4",
+    "reflect-metadata": "^0.1.14",
+    "rxjs": "^7.8.1",
+    "source-map-support": "^0.5.21",
+    "streamifier": "^0.1.1",
+    "supertest": "^6.3.3",
+    "swr": "^2.2.4",
+    "ts-loader": "^9.5.1",
+    "tsconfig-paths": "^4.2.0",
+    "tslib": "^2.3.0",
+    "@nestjs/schematics": "^10.1.0",
+    "@nestjs/testing": "^10.3.0",
+    "@nx/cypress": "17.2.8",
+    "@nx/eslint": "17.2.8",
+    "@nx/eslint-plugin": "17.2.8",
+    "@nx/jest": "17.2.8",
+    "@nx/js": "17.2.8",
+    "@nx/nest": "17.2.8",
+    "@nx/next": "^17.2.8",
+    "@nx/node": "17.2.8",
+    "@nx/react": "17.2.8",
+    "@nx/webpack": "17.2.8",
+    "@nx/workspace": "17.2.8",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
+    "@svgr/webpack": "^8.0.1",
+    "@swc-node/register": "~1.6.7",
+    "@swc/core": "~1.3.85",
+    "@testing-library/react": "14.0.0",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.8",
+    "@types/react": "18.2.33",
+    "@types/react-dom": "18.2.14",
+    "@typescript-eslint/eslint-plugin": "^6.18.1",
+    "@typescript-eslint/parser": "^6.18.1",
+    "autoprefixer": "^10.4.16",
+    "babel-jest": "^29.4.1",
+    "cypress": "^13.0.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "13.4.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-cypress": "^2.13.4",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-jsx-a11y": "6.7.1",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "jest": "^29.4.1",
+    "jest-environment-node": "^29.4.1",
+    "nx": "17.2.8",
+    "prettier": "^3.1.1",
+    "react-refresh": "^0.10.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "url-loader": "^4.1.1"
+  },
+  "pathMappings": {
+    "@/*": [
+      "./apps/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "dist/apps/api-gateway/main.js",
+        "hash": "16592009657820396957"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "6902220028944877881"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/css/styles.css",
+        "hash": "2383915961843113533"
+      },
+      {
+        "file": "apps/Swams-dashboard/js/notifications.js",
+        "hash": "7963418465677776068"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/css/index.css",
+        "hash": "1998698843422333923"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/css/global.css",
+        "hash": "11855546407738933268"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/logo.svg",
+        "hash": "5137778160416929466"
+      },
+      {
+        "file": "dist/apps/api-restuarants/main.js",
+        "hash": "17123364910872730686"
+      },
+      {
+        "file": "dist/apps/api-gateway/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/Map.js",
+        "hash": "719672659451180888"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/pages/index.js",
+        "hash": "16620613750852390838"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/CampusMapCard.js",
+        "hash": "1377302643806710771"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/public/globe.svg",
+        "hash": "9134466864871335697"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/fontawesome.js",
+        "hash": "15241065914263433288"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/reportWebVitals.js",
+        "hash": "17211204261118952438"
+      },
+      {
+        "file": "nx.json",
+        "hash": "11878089987579885579"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/tailwind.config.mjs",
+        "hash": "2556224625145107677"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/eslint.config.mjs",
+        "hash": "14826374019346907833"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/public/file.svg",
+        "hash": "15617830351863523835"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/Dashboard.js",
+        "hash": "5081557744156602984"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "17555153765896729321"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/NotificationSystem.js",
+        "hash": "12305821853718295430"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/HistoricalDataCard.js",
+        "hash": "18187115731265422739"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/postcss.config.mjs",
+        "hash": "2557392112968376575"
+      },
+      {
+        "file": "package.json",
+        "hash": "7894964334494004378"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/WaterConsumptionCard.js",
+        "hash": "8841789107986792521"
+      },
+      {
+        "file": "README.md",
+        "hash": "2135245115955019527"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/README.md",
+        "hash": "14338274650063898997"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/App.test.js",
+        "hash": "4221352042116879583"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/AlertsCard.js",
+        "hash": "12081941952332230301"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/header.js",
+        "hash": "13986056306250385258"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "2376692761078962270"
+      },
+      {
+        "file": "dist/apps/api-users/main.js",
+        "hash": "1729433568242504039"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/package.json",
+        "hash": "3928546179164697634"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/package-lock.json",
+        "hash": "12109188141049833811"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/pages/App.js",
+        "hash": "16511855321738901402"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/Charts.js",
+        "hash": "17983362413611604437"
+      },
+      {
+        "file": "dist/apps/api-users/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/RealTimeMonitoringCard.js",
+        "hash": "515912401833930010"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/AuthModal.js",
+        "hash": "1779923885495069228"
+      },
+      {
+        "file": "cover.png",
+        "hash": "5478762205185813669"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/index.js",
+        "hash": "15254447170768406516"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/.gitignore",
+        "hash": "1867017717006394117"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/sidebar.js",
+        "hash": "3186297649354505432"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/public/vercel.svg",
+        "hash": "3007623926711696394"
+      },
+      {
+        "file": "apps/Swams-dashboard/index.html",
+        "hash": "12745750624065170492"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/index.js",
+        "hash": "8682992160225657439"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/jsconfig.json",
+        "hash": "11143341468506080588"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/component/dashboard/PredictiveAnalyticsCard.js",
+        "hash": "17754055421106001513"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/src/setupTests.js",
+        "hash": "56515321623462775"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/public/window.svg",
+        "hash": "16677869292061012332"
+      },
+      {
+        "file": "apps/Swams-dashboard/js/app.js",
+        "hash": "6444198695269131080"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/public/next.svg",
+        "hash": "8300767200008744458"
+      },
+      {
+        "file": "apps/Swams-dashboard/ui/next.config.mjs",
+        "hash": "6567081978241091914"
+      },
+      {
+        "file": "dist/apps/api-restuarants/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "2745383298461474097"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "8767326693602577865"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "8865639966176587172"
+      }
+    ],
+    "projectFileMap": {
+      "restuarant-dashboard": [
+        {
+          "file": "apps/restuarant-dashboard/.eslintrc.json",
+          "hash": "14686935493836142736"
+        },
+        {
+          "file": "apps/restuarant-dashboard/.gitignore",
+          "hash": "15421984545675923671"
+        },
+        {
+          "file": "apps/restuarant-dashboard/index.d.ts",
+          "hash": "17021007320214501298"
+        },
+        {
+          "file": "apps/restuarant-dashboard/jest.config.ts",
+          "hash": "15996186006926814410"
+        },
+        {
+          "file": "apps/restuarant-dashboard/next.config.js",
+          "hash": "8820338289974927367",
+          "deps": [
+            "npm:@nx/next"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/package.json",
+          "hash": "8922048525731783978"
+        },
+        {
+          "file": "apps/restuarant-dashboard/pnpm-lock.yaml",
+          "hash": "4513282779547646018"
+        },
+        {
+          "file": "apps/restuarant-dashboard/postcss.config.js",
+          "hash": "15486281244187232437",
+          "deps": [
+            "npm:path"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/project.json",
+          "hash": "433730831631607920"
+        },
+        {
+          "file": "apps/restuarant-dashboard/public/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/restuarant-dashboard/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(providers)/providers.tsx",
+          "hash": "13495333652313319395",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/(root)/page.tsx",
+          "hash": "11795422397266268133"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/activate-account/[key]/page.tsx",
+          "hash": "1127054124928338851",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/analytics/page.tsx",
+          "hash": "15973529485192466506"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/buildings/page.tsx",
+          "hash": "14393372948074421329"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/create-tasks/page.tsx",
+          "hash": "14268718006275734691"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/login/page.tsx",
+          "hash": "15359684615324163133"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/orders/page.tsx",
+          "hash": "1169044614547006672"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/(routes)/register/page.tsx",
+          "hash": "10374600423020178713"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/api/hello/route.ts",
+          "hash": "12159998604013879547"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/configs/constants.tsx",
+          "hash": "9736988761254714786",
+          "deps": [
+            "npm:jotai"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/configs/props.d.ts",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/configs/types.d.ts",
+          "hash": "5612413836587148724"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/global.css",
+          "hash": "13702066986405021276"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/app/layout.tsx",
+          "hash": "13082121666449405114",
+          "deps": [
+            "npm:next",
+            "npm:next/font/google",
+            "npm:react-hot-toast",
+            "npm:next/headers"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/activation.restaurant.ts",
+          "hash": "8925871626847874743",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/create.food.ts",
+          "hash": "6048914707760584625",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/delete.food.ts",
+          "hash": "13802626185202240851",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/get.foods.ts",
+          "hash": "12320998538070730793",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/get.restaurant.ts",
+          "hash": "8534132499572532064",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/login.restaurant.ts",
+          "hash": "17953792464932498565",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/actions/register.restaurant.ts",
+          "hash": "9596450701741336891",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/graphql/gql.setup.ts",
+          "hash": "8046987621163319427",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:js-cookie"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/hooks/useAuthenticated.ts",
+          "hash": "5453309027395087918"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/hooks/useRestaurant.ts",
+          "hash": "11466047443595938104",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:react",
+            "npm:js-cookie"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/hooks/useRouteChange.ts",
+          "hash": "7355767255486959268",
+          "deps": [
+            "npm:jotai"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/charts/invoice.charts.tsx",
+          "hash": "15560066711830597207",
+          "deps": [
+            "npm:recharts"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/charts/revenue.chart.tsx",
+          "hash": "16943121977044302176",
+          "deps": [
+            "npm:@nextui-org/react",
+            "npm:recharts"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/data/food.data.tsx",
+          "hash": "6092516862753645979",
+          "deps": [
+            "npm:@mui/material",
+            "npm:@mui/x-data-grid",
+            "npm:@apollo/client",
+            "npm:timeago.js",
+            "npm:react-hot-toast"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/data/order.data.tsx",
+          "hash": "1793272428763115496",
+          "deps": [
+            "npm:@mui/material",
+            "npm:@mui/x-data-grid"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/layout/dashboard/dashboard.card.tsx",
+          "hash": "5274357712395994052",
+          "deps": [
+            "npm:@mui/material"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/layout/loader.tsx",
+          "hash": "6904728623232051204",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/layout/side.nav.tsx",
+          "hash": "6424832104849208946",
+          "deps": [
+            "npm:next/link",
+            "npm:react",
+            "npm:next/navigation"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/components/layout/sidebar.tsx",
+          "hash": "14664902448405634419",
+          "deps": [
+            "npm:next/image"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/modules/dashboard/create.food.tsx",
+          "hash": "8464336456817012430",
+          "deps": [
+            "npm:@hookform/resolvers/zod",
+            "npm:react-hook-form",
+            "npm:zod",
+            "npm:react",
+            "npm:next/image",
+            "npm:@apollo/client",
+            "npm:react-hot-toast",
+            "npm:next/navigation"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/modules/dashboard/dashboard.data.tsx",
+          "hash": "2849914848499425111"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/modules/dashboard/dashboard.overview.tsx",
+          "hash": "12229675316455962309"
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/views/auth/login.tsx",
+          "hash": "12098958212660933731",
+          "deps": [
+            "npm:zod",
+            "npm:react-hook-form",
+            "npm:@hookform/resolvers/zod",
+            "npm:react-icons/ai",
+            "npm:react",
+            "npm:next/link",
+            "npm:@apollo/client",
+            "npm:react-hot-toast",
+            "npm:js-cookie",
+            "npm:next/navigation"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/shared/views/auth/register.tsx",
+          "hash": "5623971977179035294",
+          "deps": [
+            "npm:zod",
+            "npm:react-hook-form",
+            "npm:@hookform/resolvers/zod",
+            "npm:react-icons/ai",
+            "npm:react",
+            "npm:next/link",
+            "npm:country-state-city",
+            "npm:@apollo/client",
+            "npm:react-hot-toast"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/utils/Icon.tsx",
+          "hash": "5502166114005137242",
+          "deps": [
+            "npm:react-icons/fi",
+            "npm:react-icons/lia",
+            "npm:react-icons/io5",
+            "npm:react-icons/tb",
+            "npm:react-icons/si",
+            "npm:react-icons/ai",
+            "npm:react-icons/md"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/src/utils/protected.tsx",
+          "hash": "7398080166417218180",
+          "deps": [
+            "npm:next/navigation"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/tailwind.config.js",
+          "hash": "9019858017447218577",
+          "deps": [
+            "npm:@nx/react/tailwind",
+            "npm:path",
+            "npm:@nextui-org/react"
+          ]
+        },
+        {
+          "file": "apps/restuarant-dashboard/tsconfig.json",
+          "hash": "10737135443898946271"
+        },
+        {
+          "file": "apps/restuarant-dashboard/tsconfig.spec.json",
+          "hash": "4919308245432237962"
+        }
+      ],
+      "api-gateway": [
+        {
+          "file": "apps/api-gateway/.eslintrc.json",
+          "hash": "12312091713424603791"
+        },
+        {
+          "file": "apps/api-gateway/jest.config.ts",
+          "hash": "665716664616163266"
+        },
+        {
+          "file": "apps/api-gateway/project.json",
+          "hash": "17855306757819682939"
+        },
+        {
+          "file": "apps/api-gateway/src/app.module.ts",
+          "hash": "12153607225610178761",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/apollo",
+            "npm:@apollo/gateway"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app.service.ts",
+          "hash": "9291266619154128810",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app/app.controller.spec.ts",
+          "hash": "17927345866605086850",
+          "deps": [
+            "npm:@nestjs/testing"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app/app.controller.ts",
+          "hash": "8194742152470293406",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app/app.module.ts",
+          "hash": "6267817688893699713",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app/app.service.spec.ts",
+          "hash": "12030387138390094050",
+          "deps": [
+            "npm:@nestjs/testing"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/app/app.service.ts",
+          "hash": "8422121253670037094",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/api-gateway/src/main.ts",
+          "hash": "10416891423416553023",
+          "deps": [
+            "npm:@nestjs/core"
+          ]
+        },
+        {
+          "file": "apps/api-gateway/tsconfig.app.json",
+          "hash": "2475386244281766571"
+        },
+        {
+          "file": "apps/api-gateway/tsconfig.json",
+          "hash": "7462419380158041776"
+        },
+        {
+          "file": "apps/api-gateway/tsconfig.spec.json",
+          "hash": "11194536110028348959"
+        },
+        {
+          "file": "apps/api-gateway/webpack.config.js",
+          "hash": "16563142251898152076",
+          "deps": [
+            "npm:@nx/webpack"
+          ]
+        }
+      ],
+      "smart-water-management-system": [
+        {
+          "file": "apps/swams-1/.env.local",
+          "hash": "12806407908702977143"
+        },
+        {
+          "file": "apps/swams-1/.eslintrc.json",
+          "hash": "2406976891062596653"
+        },
+        {
+          "file": "apps/swams-1/README.md",
+          "hash": "12051721198779184871"
+        },
+        {
+          "file": "apps/swams-1/jest.config.ts",
+          "hash": "1973409935056229078"
+        },
+        {
+          "file": "apps/swams-1/package.json",
+          "hash": "12213378874607024012"
+        },
+        {
+          "file": "apps/swams-1/pnpm-lock.yaml",
+          "hash": "5858207461449781275"
+        },
+        {
+          "file": "apps/swams-1/project.json",
+          "hash": "14324148744179750731"
+        },
+        {
+          "file": "apps/swams-1/src/alerts/alerts.module.ts",
+          "hash": "10913492911311222874",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/alerts/alerts.resolver.ts",
+          "hash": "8047183422889267879",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/alerts/alerts.service.ts",
+          "hash": "16963105500067374039",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/alerts/dto/alerts.dto.ts",
+          "hash": "3931498545958506183",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/alerts/entities/alerts.entity.ts",
+          "hash": "6487915834643407688",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/alerts/types/alerts.types.ts",
+          "hash": "449283457246786056"
+        },
+        {
+          "file": "apps/swams-1/src/app.module.ts",
+          "hash": "14825923411098932854",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/assets/.gitkeep",
+          "hash": "3556583475232093894"
+        },
+        {
+          "file": "apps/swams-1/src/buildings.module.ts",
+          "hash": "9036850855555502",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/buildings.module.ts",
+          "hash": "12991820086323241081",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/buildings.resolver.ts",
+          "hash": "16803345727094829074",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/buildings.service.ts",
+          "hash": "15121892554971730217",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/dto/buildings.dto.ts",
+          "hash": "276738963786068487",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/entities/buildings.entity.ts",
+          "hash": "2121479552006867337",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/buildings/types/buildings.types.ts",
+          "hash": "13232872888460791551"
+        },
+        {
+          "file": "apps/swams-1/src/employees/dto/employees.dto.ts",
+          "hash": "6620622785170835634",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/employees/employees.module.ts",
+          "hash": "13627766264126466277",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/employees/employees.resolver.ts",
+          "hash": "1840724582020404928",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/employees/employees.service.ts",
+          "hash": "12335840449359160588",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/employees/entities/employees.entity.ts",
+          "hash": "6512338158785701681",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/employees/types/employees.types.ts",
+          "hash": "2223600142425598792"
+        },
+        {
+          "file": "apps/swams-1/src/guards/auth.guard.ts",
+          "hash": "16931785832645779774",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/jwt",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/dto/historical-data.dto.ts",
+          "hash": "7335518935390373468",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/entities/historical-data.entity.ts",
+          "hash": "3699827656349705706",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/historical-data.module.ts",
+          "hash": "13536989369730132749",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/historical-data.resolver.ts",
+          "hash": "3935778811971233414",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/historical-data.service.ts",
+          "hash": "1486629430963364950",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/historical-data/types/historical-data.types.ts",
+          "hash": "13764489532489429828"
+        },
+        {
+          "file": "apps/swams-1/src/main.ts",
+          "hash": "1766036437636787594",
+          "deps": [
+            "npm:@nestjs/core"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/dto/maintenance.dto.ts",
+          "hash": "17676188515530703490",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/entities/maintenance.entity.ts",
+          "hash": "10809736310598658566",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/maintenance.module.ts",
+          "hash": "15113917457672026409",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/maintenance.resolver.ts",
+          "hash": "8841250479100851629",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/maintenance.service.ts",
+          "hash": "4011541501495714997",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/maintenance/types/maintenance.types.ts",
+          "hash": "2743506218727964838"
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/dto/predictive-analytics.dto.ts",
+          "hash": "637903169475730138",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/entities/predictive-analytics.entity.ts",
+          "hash": "16613048138646068235",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/predictive-analytics.module.ts",
+          "hash": "11540859107298222626",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/predictive-analytics.resolver.ts",
+          "hash": "12590918515233862769",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/predictive-analytics.service.ts",
+          "hash": "8765640305709754123",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/predictive-analytics/types/predictive-analytics.types.ts",
+          "hash": "7949592654404628466"
+        },
+        {
+          "file": "apps/swams-1/src/prisma/prisma.service.ts",
+          "hash": "17261721385087200414",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/prisma/schema.prisma",
+          "hash": "4847876571563952493"
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/dto/real-time-monitoring.dto.ts",
+          "hash": "835438420305422524",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/entities/real-time-monitoringentity.ts",
+          "hash": "14438698175493964238",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/real-time-monitoring.module.ts",
+          "hash": "14502707098292256046",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/real-time-monitoring.resolver.ts",
+          "hash": "18267213016904443727",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/real-time-monitoring.service.ts",
+          "hash": "9168737562505170824",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/real-time-monitoring/types/real-time-monitoring.types.ts",
+          "hash": "1116656399263185357"
+        },
+        {
+          "file": "apps/swams-1/src/types/index.ts",
+          "hash": "13803446272502948050"
+        },
+        {
+          "file": "apps/swams-1/src/utils/send.token.ts",
+          "hash": "8561498816375289300",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/dto/water-consumption.dto.ts",
+          "hash": "10464591529140882082",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/entities/water-consumption.entity.ts",
+          "hash": "1101040251875626830",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/types/water-consumption.types.ts",
+          "hash": "11259352591352461290"
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/water-consumption.module.ts",
+          "hash": "15807695437850590588",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/water-consumption.resolver.ts",
+          "hash": "13651280074266298973",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/swams-1/src/water-consumption/water-consumption.service.ts",
+          "hash": "16316508751864549861",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/swams-1/tsconfig.app.json",
+          "hash": "12917972465284157678"
+        },
+        {
+          "file": "apps/swams-1/tsconfig.json",
+          "hash": "16191090079635094152"
+        },
+        {
+          "file": "apps/swams-1/tsconfig.spec.json",
+          "hash": "11073776143503510027"
+        },
+        {
+          "file": "apps/swams-1/webpack.config.js",
+          "hash": "17475533163878892249"
+        }
+      ],
+      "api-users": [
+        {
+          "file": "apps/api-users/.env.local",
+          "hash": "6854933151549911064"
+        },
+        {
+          "file": "apps/api-users/.eslintrc.json",
+          "hash": "14921153827776288937"
+        },
+        {
+          "file": "apps/api-users/email-templates/activation-mail.ejs",
+          "hash": "8647347978230570734"
+        },
+        {
+          "file": "apps/api-users/email-templates/forgot-password.ejs",
+          "hash": "15671802236293664412"
+        },
+        {
+          "file": "apps/api-users/jest.config.ts",
+          "hash": "10842270299281466794"
+        },
+        {
+          "file": "apps/api-users/prisma/prisma.service.ts",
+          "hash": "201466026772068703",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/api-users/prisma/schema.prisma",
+          "hash": "14379195994897367460"
+        },
+        {
+          "file": "apps/api-users/project.json",
+          "hash": "13477565248375765172"
+        },
+        {
+          "file": "apps/api-users/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/api-users/src/dto/user.dto.ts",
+          "hash": "1522312873778101634",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/email/email.module.ts",
+          "hash": "16642216065552548578",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs-modules/mailer",
+            "npm:@nestjs/config",
+            "npm:path",
+            "npm:@nestjs-modules/mailer/dist/adapters/ejs.adapter"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/email/email.service.ts",
+          "hash": "5824517687342590496",
+          "deps": [
+            "npm:@nestjs-modules/mailer",
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/entities/user.entities.ts",
+          "hash": "12611022416937252803",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/guards/auth.guard.ts",
+          "hash": "6280421288488820466",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/jwt",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/main.ts",
+          "hash": "13013126458038617582",
+          "deps": [
+            "npm:@nestjs/core",
+            "npm:@nestjs/platform-express",
+            "npm:path"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/types/user.types.ts",
+          "hash": "15071477376848593566",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/user.module.ts",
+          "hash": "4353391356692767577",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/apollo",
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/user.resolver.ts",
+          "hash": "11769114654363857799",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/graphql",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/user.service.ts",
+          "hash": "8722643425541831830",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt",
+            "npm:express",
+            "npm:bcrypt",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/api-users/src/utils/sendToken.ts",
+          "hash": "3914802178943676946",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/api-users/tsconfig.app.json",
+          "hash": "8327219737532488200"
+        },
+        {
+          "file": "apps/api-users/tsconfig.json",
+          "hash": "7462419380158041776"
+        },
+        {
+          "file": "apps/api-users/tsconfig.spec.json",
+          "hash": "11194536110028348959"
+        },
+        {
+          "file": "apps/api-users/webpack.config.js",
+          "hash": "3859180910370152010",
+          "deps": [
+            "npm:@nx/webpack"
+          ]
+        }
+      ],
+      "client": [
+        {
+          "file": "apps/client/.eslintrc.json",
+          "hash": "18016564589090001792"
+        },
+        {
+          "file": "apps/client/.gitignore",
+          "hash": "16580834927181457514"
+        },
+        {
+          "file": "apps/client/global.d.ts",
+          "hash": "1693096781842467483",
+          "deps": [
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/client/jest.config.ts",
+          "hash": "4207418288951538134"
+        },
+        {
+          "file": "apps/client/next.config.js",
+          "hash": "192874800326178153",
+          "deps": [
+            "npm:@nx/next"
+          ]
+        },
+        {
+          "file": "apps/client/package.json",
+          "hash": "8086740034533981828"
+        },
+        {
+          "file": "apps/client/pnpm-lock.yaml",
+          "hash": "85403173961453285"
+        },
+        {
+          "file": "apps/client/postcss.config.js",
+          "hash": "15486281244187232437",
+          "deps": [
+            "npm:path"
+          ]
+        },
+        {
+          "file": "apps/client/prisma/schema.prisma",
+          "hash": "6109579916480248210"
+        },
+        {
+          "file": "apps/client/project.json",
+          "hash": "5930975780729389274"
+        },
+        {
+          "file": "apps/client/public/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/client/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/client/src/actions/register-user.ts",
+          "hash": "17203161420323493161",
+          "deps": [
+            "npm:bcrypt"
+          ]
+        },
+        {
+          "file": "apps/client/src/app/(root)/page.tsx",
+          "hash": "1312089607524394076"
+        },
+        {
+          "file": "apps/client/src/app/api/auth/[...nextauth]/options.ts",
+          "hash": "4473683805954854385",
+          "deps": [
+            "npm:next-auth/providers/google"
+          ]
+        },
+        {
+          "file": "apps/client/src/app/api/auth/[...nextauth]/route.ts",
+          "hash": "5377792784111163523",
+          "deps": [
+            "npm:next-auth/next"
+          ]
+        },
+        {
+          "file": "apps/client/src/app/global.css",
+          "hash": "2776636080113046100"
+        },
+        {
+          "file": "apps/client/src/app/layout.tsx",
+          "hash": "9883378034881018659",
+          "deps": [
+            "npm:next",
+            "npm:next/font/google",
+            "npm:react-hot-toast"
+          ]
+        },
+        {
+          "file": "apps/client/src/app/providers/NextUiProvider.tsx",
+          "hash": "17356387039611473421",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:@nextui-org/react",
+            "npm:next-auth/react"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/activation.action.tsx",
+          "hash": "5125071416443201628",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/forgot-password.action.ts",
+          "hash": "12387385898461205374",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/getUser.action.tsx",
+          "hash": "13955958615481864561",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/login.action.tsx",
+          "hash": "15066233820764210644",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/register.action.tsx",
+          "hash": "17695381703065396424",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/actions/reset-password.action.tsx",
+          "hash": "1481057200930991867",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/graphql/gql.setup.ts",
+          "hash": "4624591653802930496",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:js-cookie"
+          ]
+        },
+        {
+          "file": "apps/client/src/hooks/useUser.tsx",
+          "hash": "2567567216982356624",
+          "deps": [
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/lib/prismaDb.ts",
+          "hash": "6014706454588281612",
+          "deps": [
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/components/Layout/Header.tsx",
+          "hash": "3123893684589012329"
+        },
+        {
+          "file": "apps/client/src/shared/components/NavItems.tsx",
+          "hash": "15698124431668376643",
+          "deps": [
+            "npm:next/link"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/components/ProfileDropDown.tsx",
+          "hash": "11831332980230627753",
+          "deps": [
+            "npm:@nextui-org/react",
+            "npm:react",
+            "npm:react-icons/cg",
+            "npm:react-hot-toast",
+            "npm:js-cookie",
+            "npm:next-auth/react"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/screens/AuthScreen.tsx",
+          "hash": "14834497972665509984",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/screens/HomeScreen.tsx",
+          "hash": "12931905064544538114"
+        },
+        {
+          "file": "apps/client/src/shared/views/Auth/ForgotPassword.tsx",
+          "hash": "290666486550789961",
+          "deps": [
+            "npm:zod",
+            "npm:react-hook-form",
+            "npm:@hookform/resolvers/zod",
+            "npm:react-hot-toast",
+            "npm:@apollo/client"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/views/Auth/Login.tsx",
+          "hash": "8750401229017389463",
+          "deps": [
+            "npm:zod",
+            "npm:react-hook-form",
+            "npm:@hookform/resolvers/zod",
+            "npm:react-icons/ai",
+            "npm:react-icons/fc",
+            "npm:react",
+            "npm:react-hot-toast",
+            "npm:@apollo/client",
+            "npm:js-cookie",
+            "npm:next-auth/react"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/views/Auth/Signup.tsx",
+          "hash": "9925284114142485001",
+          "deps": [
+            "npm:zod",
+            "npm:react-hook-form",
+            "npm:@hookform/resolvers/zod",
+            "npm:react-icons/ai",
+            "npm:react-icons/fc",
+            "npm:react",
+            "npm:@apollo/client",
+            "npm:react-hot-toast"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/views/Auth/Verification.tsx",
+          "hash": "7262186196614736904",
+          "deps": [
+            "npm:@apollo/client",
+            "npm:react",
+            "npm:react-hot-toast",
+            "npm:react-icons/vsc"
+          ]
+        },
+        {
+          "file": "apps/client/src/shared/views/Root/Hero.tsx",
+          "hash": "16382981409374566151",
+          "deps": [
+            "npm:@nextui-org/button"
+          ]
+        },
+        {
+          "file": "apps/client/src/utils/styles.ts",
+          "hash": "18245130495812870568"
+        },
+        {
+          "file": "apps/client/tailwind.config.js",
+          "hash": "17600015678541418445",
+          "deps": [
+            "npm:@nx/react/tailwind",
+            "npm:path",
+            "npm:@nextui-org/react"
+          ]
+        },
+        {
+          "file": "apps/client/tsconfig.json",
+          "hash": "13705158918305706936"
+        },
+        {
+          "file": "apps/client/tsconfig.spec.json",
+          "hash": "4919308245432237962"
+        }
+      ],
+      "api-water-management": [
+        {
+          "file": "apps/api-restuarants/.env.local",
+          "hash": "9204964166958022778"
+        },
+        {
+          "file": "apps/api-restuarants/.eslintrc.json",
+          "hash": "1776928894131431682"
+        },
+        {
+          "file": "apps/api-restuarants/email-templates/activation-mail.ejs",
+          "hash": "12171862328091630834"
+        },
+        {
+          "file": "apps/api-restuarants/email-templates/bc.html",
+          "hash": "1104509869265778187"
+        },
+        {
+          "file": "apps/api-restuarants/jest.config.ts",
+          "hash": "6161537812890751944"
+        },
+        {
+          "file": "apps/api-restuarants/prisma/prisma.service.ts",
+          "hash": "201466026772068703",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/prisma/schema.prisma",
+          "hash": "2687418857091551263"
+        },
+        {
+          "file": "apps/api-restuarants/project.json",
+          "hash": "10986509837111175312"
+        },
+        {
+          "file": "apps/api-restuarants/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/api-restuarants/src/cloudinary/cloudinary.module.ts",
+          "hash": "6829283253618838211",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/cloudinary/cloudinary.provider.ts",
+          "hash": "6446769713657901736",
+          "deps": [
+            "npm:cloudinary",
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/cloudinary/cloudinary.service.ts",
+          "hash": "5079168296939317901",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:cloudinary"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/dto/employee.dto.ts",
+          "hash": "8845964314752412416",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/dto/water-consumption.dto.ts",
+          "hash": "7736992522617909656",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/email/email.module.ts",
+          "hash": "11885541891668428880",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs-modules/mailer",
+            "npm:@nestjs/config",
+            "npm:path",
+            "npm:@nestjs-modules/mailer/dist/adapters/ejs.adapter"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/email/email.service.ts",
+          "hash": "3412894551922251844",
+          "deps": [
+            "npm:@nestjs-modules/mailer",
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/employee.resolver.ts",
+          "hash": "17869910225818782430",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/employee.service.ts",
+          "hash": "601403173386040624",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/entities/employee.entity.ts",
+          "hash": "7989121692685532036",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/entities/water-consumption.entity.ts",
+          "hash": "5926183282371759137",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/foods/dto/foods.dto.ts",
+          "hash": "7619704254322016580",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/foods/entities/foods.entities.ts",
+          "hash": "14332673934838541603",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/foods/foods.resolver.ts",
+          "hash": "13679164166828938097",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/common",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/foods/foods.service.ts",
+          "hash": "4927483962312669959",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/foods/types/foods.types.ts",
+          "hash": "3300583315708113236",
+          "deps": [
+            "npm:@nestjs/graphql",
+            "npm:prisma/prisma-client"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/guards/auth.guard.ts",
+          "hash": "8566464653203135643",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/jwt",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/main.ts",
+          "hash": "13266828431434516134",
+          "deps": [
+            "npm:@nestjs/core",
+            "npm:@nestjs/platform-express",
+            "npm:path",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/utils/send.token.ts",
+          "hash": "1677746004142278710",
+          "deps": [
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt",
+            "npm:@prisma/client"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/water-consumption.resolver.ts",
+          "hash": "15718696704484322283",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/water-consumption.service.ts",
+          "hash": "12325807299242193023",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/src/water-management.module.ts",
+          "hash": "297852404827513463",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:@nestjs/graphql",
+            "npm:@nestjs/apollo"
+          ]
+        },
+        {
+          "file": "apps/api-restuarants/tsconfig.app.json",
+          "hash": "8327219737532488200"
+        },
+        {
+          "file": "apps/api-restuarants/tsconfig.json",
+          "hash": "7462419380158041776"
+        },
+        {
+          "file": "apps/api-restuarants/tsconfig.spec.json",
+          "hash": "11194536110028348959"
+        },
+        {
+          "file": "apps/api-restuarants/webpack.config.js",
+          "hash": "12930725166678649450",
+          "deps": [
+            "npm:@nx/webpack"
+          ]
+        }
+      ]
+    }
+  }
+}
