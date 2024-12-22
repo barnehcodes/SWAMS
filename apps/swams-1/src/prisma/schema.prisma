@@ -1,0 +1,79 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Building {
+  id                    String                 @id @default(auto()) @map("_id") @db.ObjectId
+  name                  String
+  location              String
+  floors                Int
+  createdAt             DateTime               @default(now())
+  updatedAt             DateTime               @updatedAt
+  waterConsumptions     WaterConsumption[]
+  alerts                Alert[]
+  historicalData        HistoricalData[]
+  predictiveAnalytics   PredictiveAnalytics[]
+  realTimeMonitorings   RealTimeMonitoring[]
+}
+
+model WaterConsumption {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  buildingId  String   @db.ObjectId
+  date        DateTime
+  consumption Float
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  building Building @relation(fields: [buildingId], references: [id])
+}
+
+model Alert {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  buildingId  String   @db.ObjectId
+  message     String
+  severity    String
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  building Building @relation(fields: [buildingId], references: [id])
+}
+
+model HistoricalData {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  buildingId  String   @db.ObjectId
+  date        DateTime
+  data        Json
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  building Building @relation(fields: [buildingId], references: [id])
+}
+
+model PredictiveAnalytics {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  buildingId  String   @db.ObjectId
+  date        DateTime
+  prediction  Json
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  building Building @relation(fields: [buildingId], references: [id])
+}
+
+model RealTimeMonitoring {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  buildingId  String   @db.ObjectId
+  timestamp   DateTime
+  data        Json
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  building Building @relation(fields: [buildingId], references: [id])
+}
+
